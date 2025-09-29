@@ -1,0 +1,31 @@
+/* Sidebar fixo à esquerda */
+.sidebar {
+    width: 80px;
+    height: 100vh;
+    background: orange;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+    .sidebar img {
+        width: 50px;
+        margin-bottom: 25px;
+    }
+
+    .sidebar a, .sidebar .nav-link {
+        margin: 18px 0;
+        color: white;
+        text-decoration: none;
+        font-size: 22px;
+    }
+
+/* Conteúdo principal ao lado do menu */
+main {
+    margin-left: 80px; /* espaço reservado para o menu */
+    padding: 20px;
+}
