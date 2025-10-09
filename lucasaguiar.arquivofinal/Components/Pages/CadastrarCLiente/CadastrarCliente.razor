@@ -1,0 +1,136 @@
+@page "/cadastrar-cliente"
+@using BarbeariaLucasAaguiar.Models
+@inject ClienteDAO clienteDAO
+
+<PageTitle>Cadastrar Cliente</PageTitle>
+
+<div class="container">
+    <h3 class="title">CADASTRAR CLIENTES</h3>
+
+    <EditForm Model="@cliente" OnValidSubmit="SalvarCliente" FormName="FormCadastroCliente" class="form-wrapper">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="button-group">
+            <button type="submit" class="btn btn-success">SALVAR</button>
+            <button type="button" class="btn btn-primary" @onclick="AdicionarCliente">ADICIONAR</button>
+        </div>
+
+        <div class="form-grid">
+            <InputText @bind-Value="cliente.Nome" placeholder="Nome..." />
+            <InputText @bind-Value="cliente.Cpf" placeholder="CPF..." />
+            <InputDate @bind-Value="cliente.DataAniversario" />
+            <InputText @bind-Value="cliente.Telefone" placeholder="Telefone..." />
+            <InputText @bind-Value="cliente.Rg" placeholder="RG..." />
+        </div>
+    </EditForm>
+
+    @if (!string.IsNullOrEmpty(mensagem))
+    {
+        <p class="mensagem">@mensagem</p>
+    }
+</div>
+<style>
+    .container {
+        max-width: 600px;
+        margin: 2rem auto;
+        padding: 1rem;
+        font-family: Arial, sans-serif;
+    }
+
+    .title {
+        background-color: orange;
+        color: black;
+        text-align: center;
+        font-weight: bold;
+        padding: 1rem;
+        font-size: 1.5rem;
+        border-radius: 4px;
+        box-shadow: 0px 2px 4px rgba(0,0,0,0.3);
+        margin-bottom: 1.5rem;
+    }
+
+    .form-wrapper {
+        background-color: orange;
+        border-radius: 20px;
+        padding: 2rem;
+    }
+
+    .form-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 1rem;
+        margin-top: 1rem;
+    }
+
+    input,
+    input[type="text"],
+    input[type="email"],
+    input[type="date"] {
+        padding: 0.6rem;
+        border: none;
+        border-radius: 12px;
+        background-color: white;
+        font-size: 1rem;
+    }
+
+    .button-group {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 1rem;
+    }
+
+    .btn {
+        padding: 0.8rem 1.6rem;
+        border: none;
+        border-radius: 20px;
+        font-weight: bold;
+        font-size: 1rem;
+        cursor: pointer;
+        box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+        transition: background-color 0.2s ease-in-out;
+    }
+
+    .btn-success {
+        background-color: #27ae60;
+        color: white;
+    }
+
+    .btn-success:hover {
+        background-color: #219150;
+    }
+
+    .btn-primary {
+        background-color: #f39c12;
+        color: white;
+    }
+
+    .btn-primary:hover {
+        background-color: #d68910;
+    }
+</style>
+
+@code {
+    private Cliente cliente = new Cliente();
+    private string mensagem = "";
+
+    private void SalvarCliente()
+    {
+        try
+        {
+            clienteDAO.Adicionar(cliente); // Salva no banco
+            mensagem = $"Cliente '{cliente.Nome}' cadastrado com sucesso!";
+            cliente = new Cliente(); // Limpa o formulário
+        }
+        catch (Exception ex)
+        {
+            mensagem = $"Erro ao cadastrar cliente: {ex.Message}";
+        }
+    }
+
+    private void AdicionarCliente()
+    {
+        cliente = new Cliente(); // Limpa o formulário
+        mensagem = "";
+    }
+}
