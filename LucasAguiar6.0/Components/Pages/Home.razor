@@ -1,0 +1,78 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lucas Aguiar</title>
+    <link rel="shortcut icon" href="Logo_BarbeariaLucasAguiar.png" type="image/x-icon">
+    <link href="css/site.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <div class="content">
+        <div class="charts-row">
+            <div class="card bar-card">
+                <canvas id="barChart"></canvas>
+            </div>
+
+            <div class="card">
+                <canvas id="pieChart"></canvas>
+            </div>
+        </div>
+
+        <div class="bottom-boxes">
+            <div class="box receita">Receita: R$ 3.500,00</div>
+            <div class="box despesa">Despesas: R$ 1.700,00</div>
+            <div class="box lucro">Lucro: R$ 1.800,00</div>
+        </div>
+    </div>
+
+    <script>
+        const ctxBar = document.getElementById('barChart').getContext('2d');
+        new Chart(ctxBar, {
+            type: 'bar',
+            data: {
+                labels: ['JAN', 'FEV', 'MAR', 'ABR', 'MAI', 'JUN', 'JUL', 'AGO', 'SET', 'OUT', 'NOV', 'DEZ'],
+                datasets: [{
+                    label: 'Vendas',
+                    data: [2500, 5000, 4000, 2200, 4300, 3900, 3700, 4100, 3200, 2800, 3500, 3000],
+                    backgroundColor: 'orange'
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            stepSize: 1000
+                        }
+                    }
+                }
+            }
+        });
+
+        const ctxPie = document.getElementById('pieChart').getContext('2d');
+        new Chart(ctxPie, {
+            type: 'pie',
+            data: {
+                labels: ['Clientes com plano', 'Clientes sem plano', 'Clientes em avaliação'],
+                datasets: [{
+                    data: [30, 50, 20],
+                    backgroundColor: ['#66ff66', '#66b3ff', '#99ccff']
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true
+            }
+        });
+    </script>
+</body>
+</html>

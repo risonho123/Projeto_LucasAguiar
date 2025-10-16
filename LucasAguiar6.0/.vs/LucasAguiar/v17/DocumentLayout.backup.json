@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\art03\\OneDrive\\Documentos\\A PDS\\LucasAguiar5.0\\LucasAguiar5.0\\LucasAguiar3.0\\LucasAguiar2.0\\LucasAguiar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78BF27A9-768A-E7CC-4CCB-1E8A0D7E3D99}|LucasAguiar.csproj|c:\\users\\art03\\onedrive\\documentos\\a pds\\lucasaguiar5.0\\lucasaguiar5.0\\lucasaguiar3.0\\lucasaguiar2.0\\lucasaguiar\\configs\\banco_dados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{78BF27A9-768A-E7CC-4CCB-1E8A0D7E3D99}|LucasAguiar.csproj|solutionrelative:configs\\banco_dados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BF27A9-768A-E7CC-4CCB-1E8A0D7E3D99}|LucasAguiar.csproj|c:\\users\\art03\\onedrive\\documentos\\a pds\\lucasaguiar5.0\\lucasaguiar5.0\\lucasaguiar3.0\\lucasaguiar2.0\\lucasaguiar\\configs\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BF27A9-768A-E7CC-4CCB-1E8A0D7E3D99}|LucasAguiar.csproj|solutionrelative:configs\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BF27A9-768A-E7CC-4CCB-1E8A0D7E3D99}|LucasAguiar.csproj|c:\\users\\art03\\onedrive\\documentos\\a pds\\lucasaguiar5.0\\lucasaguiar5.0\\lucasaguiar3.0\\lucasaguiar2.0\\lucasaguiar\\components\\pages\\fornecedorespasta\\listarfornecedores.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78BF27A9-768A-E7CC-4CCB-1E8A0D7E3D99}|LucasAguiar.csproj|solutionrelative:components\\pages\\fornecedorespasta\\listarfornecedores.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BF27A9-768A-E7CC-4CCB-1E8A0D7E3D99}|LucasAguiar.csproj|c:\\users\\art03\\onedrive\\documentos\\a pds\\lucasaguiar5.0\\lucasaguiar5.0\\lucasaguiar3.0\\lucasaguiar2.0\\lucasaguiar\\components\\pages\\fornecedorespasta\\cadastrarfornecedores.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78BF27A9-768A-E7CC-4CCB-1E8A0D7E3D99}|LucasAguiar.csproj|solutionrelative:components\\pages\\fornecedorespasta\\cadastrarfornecedores.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BF27A9-768A-E7CC-4CCB-1E8A0D7E3D99}|LucasAguiar.csproj|c:\\users\\art03\\onedrive\\documentos\\a pds\\lucasaguiar5.0\\lucasaguiar5.0\\lucasaguiar3.0\\lucasaguiar2.0\\lucasaguiar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BF27A9-768A-E7CC-4CCB-1E8A0D7E3D99}|LucasAguiar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BF27A9-768A-E7CC-4CCB-1E8A0D7E3D99}|LucasAguiar.csproj|c:\\users\\art03\\onedrive\\documentos\\a pds\\lucasaguiar5.0\\lucasaguiar5.0\\lucasaguiar3.0\\lucasaguiar2.0\\lucasaguiar\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BF27A9-768A-E7CC-4CCB-1E8A0D7E3D99}|LucasAguiar.csproj|solutionrelative:models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BF27A9-768A-E7CC-4CCB-1E8A0D7E3D99}|LucasAguiar.csproj|c:\\users\\art03\\onedrive\\documentos\\a pds\\lucasaguiar5.0\\lucasaguiar5.0\\lucasaguiar3.0\\lucasaguiar2.0\\lucasaguiar\\models\\fornecedordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BF27A9-768A-E7CC-4CCB-1E8A0D7E3D99}|LucasAguiar.csproj|solutionrelative:models\\fornecedordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BF27A9-768A-E7CC-4CCB-1E8A0D7E3D99}|LucasAguiar.csproj|c:\\users\\art03\\onedrive\\documentos\\a pds\\lucasaguiar5.0\\lucasaguiar5.0\\lucasaguiar3.0\\lucasaguiar2.0\\lucasaguiar\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78BF27A9-768A-E7CC-4CCB-1E8A0D7E3D99}|LucasAguiar.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BF27A9-768A-E7CC-4CCB-1E8A0D7E3D99}|LucasAguiar.csproj|c:\\users\\art03\\onedrive\\documentos\\a pds\\lucasaguiar5.0\\lucasaguiar5.0\\lucasaguiar3.0\\lucasaguiar2.0\\lucasaguiar\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78BF27A9-768A-E7CC-4CCB-1E8A0D7E3D99}|LucasAguiar.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BF27A9-768A-E7CC-4CCB-1E8A0D7E3D99}|LucasAguiar.csproj|c:\\users\\art03\\onedrive\\documentos\\a pds\\lucasaguiar5.0\\lucasaguiar5.0\\lucasaguiar3.0\\lucasaguiar2.0\\lucasaguiar\\configs\\banco_dados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{78BF27A9-768A-E7CC-4CCB-1E8A0D7E3D99}|LucasAguiar.csproj|solutionrelative:configs\\banco_dados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\art03\\OneDrive\\Documentos\\A PDS\\LucasAguiar5.0\\LucasAguiar5.0\\LucasAguiar3.0\\LucasAguiar2.0\\LucasAguiar\\Configs\\Conexao.cs",
+              "RelativeDocumentMoniker": "Configs\\Conexao.cs",
+              "ToolTip": "C:\\Users\\art03\\OneDrive\\Documentos\\A PDS\\LucasAguiar5.0\\LucasAguiar5.0\\LucasAguiar3.0\\LucasAguiar2.0\\LucasAguiar\\Configs\\Conexao.cs",
+              "RelativeToolTip": "Configs\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T22:12:36.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\art03\\OneDrive\\Documentos\\A PDS\\LucasAguiar5.0\\LucasAguiar5.0\\LucasAguiar3.0\\LucasAguiar2.0\\LucasAguiar\\Models\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "Models\\Fornecedor.cs",
+              "ToolTip": "C:\\Users\\art03\\OneDrive\\Documentos\\A PDS\\LucasAguiar5.0\\LucasAguiar5.0\\LucasAguiar3.0\\LucasAguiar2.0\\LucasAguiar\\Models\\Fornecedor.cs",
+              "RelativeToolTip": "Models\\Fornecedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T21:57:23.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\art03\\OneDrive\\Documentos\\A PDS\\LucasAguiar5.0\\LucasAguiar5.0\\LucasAguiar3.0\\LucasAguiar2.0\\LucasAguiar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\art03\\OneDrive\\Documentos\\A PDS\\LucasAguiar5.0\\LucasAguiar5.0\\LucasAguiar3.0\\LucasAguiar2.0\\LucasAguiar\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T21:43:11.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\art03\\OneDrive\\Documentos\\A PDS\\LucasAguiar5.0\\LucasAguiar5.0\\LucasAguiar3.0\\LucasAguiar2.0\\LucasAguiar\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\art03\\OneDrive\\Documentos\\A PDS\\LucasAguiar5.0\\LucasAguiar5.0\\LucasAguiar3.0\\LucasAguiar2.0\\LucasAguiar\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T22:45:20.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadastrarFornecedores.razor",
+              "DocumentMoniker": "C:\\Users\\art03\\OneDrive\\Documentos\\A PDS\\LucasAguiar5.0\\LucasAguiar5.0\\LucasAguiar3.0\\LucasAguiar2.0\\LucasAguiar\\Components\\Pages\\FornecedoresPasta\\CadastrarFornecedores.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\FornecedoresPasta\\CadastrarFornecedores.razor",
+              "ToolTip": "C:\\Users\\art03\\OneDrive\\Documentos\\A PDS\\LucasAguiar5.0\\LucasAguiar5.0\\LucasAguiar3.0\\LucasAguiar2.0\\LucasAguiar\\Components\\Pages\\FornecedoresPasta\\CadastrarFornecedores.razor",
+              "RelativeToolTip": "Components\\Pages\\FornecedoresPasta\\CadastrarFornecedores.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T22:17:29.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListarFornecedores.razor",
+              "DocumentMoniker": "C:\\Users\\art03\\OneDrive\\Documentos\\A PDS\\LucasAguiar5.0\\LucasAguiar5.0\\LucasAguiar3.0\\LucasAguiar2.0\\LucasAguiar\\Components\\Pages\\FornecedoresPasta\\ListarFornecedores.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\FornecedoresPasta\\ListarFornecedores.razor",
+              "ToolTip": "C:\\Users\\art03\\OneDrive\\Documentos\\A PDS\\LucasAguiar5.0\\LucasAguiar5.0\\LucasAguiar3.0\\LucasAguiar2.0\\LucasAguiar\\Components\\Pages\\FornecedoresPasta\\ListarFornecedores.razor",
+              "RelativeToolTip": "Components\\Pages\\FornecedoresPasta\\ListarFornecedores.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T22:17:33.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "banco_dados.sql ",
+              "DocumentMoniker": "C:\\Users\\art03\\OneDrive\\Documentos\\A PDS\\LucasAguiar5.0\\LucasAguiar5.0\\LucasAguiar3.0\\LucasAguiar2.0\\LucasAguiar\\Configs\\banco_dados.sql",
+              "RelativeDocumentMoniker": "Configs\\banco_dados.sql",
+              "ToolTip": "C:\\Users\\art03\\OneDrive\\Documentos\\A PDS\\LucasAguiar5.0\\LucasAguiar5.0\\LucasAguiar3.0\\LucasAguiar2.0\\LucasAguiar\\Configs\\banco_dados.sql",
+              "RelativeToolTip": "Configs\\banco_dados.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-13T22:12:47.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FornecedorDAO.cs",
+              "DocumentMoniker": "C:\\Users\\art03\\OneDrive\\Documentos\\A PDS\\LucasAguiar5.0\\LucasAguiar5.0\\LucasAguiar3.0\\LucasAguiar2.0\\LucasAguiar\\Models\\FornecedorDAO.cs",
+              "RelativeDocumentMoniker": "Models\\FornecedorDAO.cs",
+              "ToolTip": "C:\\Users\\art03\\OneDrive\\Documentos\\A PDS\\LucasAguiar5.0\\LucasAguiar5.0\\LucasAguiar3.0\\LucasAguiar2.0\\LucasAguiar\\Models\\FornecedorDAO.cs",
+              "RelativeToolTip": "Models\\FornecedorDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T21:58:36.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\art03\\OneDrive\\Documentos\\A PDS\\LucasAguiar5.0\\LucasAguiar5.0\\LucasAguiar3.0\\LucasAguiar2.0\\LucasAguiar\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\art03\\OneDrive\\Documentos\\A PDS\\LucasAguiar5.0\\LucasAguiar5.0\\LucasAguiar3.0\\LucasAguiar2.0\\LucasAguiar\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T03:59:15.001Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

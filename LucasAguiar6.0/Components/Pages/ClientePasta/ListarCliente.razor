@@ -1,0 +1,103 @@
+@page "/ListaClientes"
+@using LucasAguiar.Models
+@using LucasAguiar.Configs
+
+@inject ClienteDAO clienteDAO
+
+<PageTitle>Lista de Clientes</PageTitle>
+
+<h1 class="titulo-lista">LISTA DE CLIENTES</h1>
+
+<NavLink href="/CadastrarCliente/novo" class="botao-novo">+ Novo Cliente</NavLink>
+
+<table class="tabela-clientes">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Nome</th>
+            <th>Telefone</th>
+            <th>CPF</th>
+            <th>Cidade</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int contador = 1;
+        }
+
+        @foreach (Cliente cliente in listaCliente)
+        {
+            <tr>
+                <td>@contador</td>
+                <td>@cliente.NomeCliente</td>
+                <td>@cliente.Telefone</td>
+                <td>@cliente.CPF</td>
+                <td>@cliente.Cidade</td>
+            </tr>
+            contador++;
+        }
+    </tbody>
+</table>
+
+<style>
+    .titulo-lista {
+        font-size: 1.8rem;
+        font-weight: bold;
+        color: #e67e22;
+        margin-bottom: 20px;
+        border-bottom: 2px solid #e67e22;
+        padding-bottom: 10px;
+    }
+
+    .botao-novo {
+        background-color: #ee8113;
+        color: white;
+        font-weight: bold;
+        padding: 8px 16px;
+        border-radius: 5px;
+        text-decoration: none;
+        display: inline-block;
+        margin-bottom: 20px;
+        transition: background-color 0.3s ease;
+    }
+
+    .botao-novo:hover {
+        background-color: #d35400;
+    }
+
+    .tabela-clientes {
+        width: 100%;
+        border-collapse: collapse;
+        background-color: #fffaf3;
+        box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+
+    .tabela-clientes th {
+        background-color: #f39c12;
+        color: white;
+        padding: 12px;
+        text-align: left;
+    }
+
+    .tabela-clientes td {
+        padding: 10px;
+        border-bottom: 1px solid #f0f0f0;
+    }
+
+    .tabela-clientes tr:nth-child(even) {
+        background-color: #fdf2e9;
+    }
+
+    .tabela-clientes tr:hover {
+        background-color: #fdebd0;
+    }
+</style>
+
+@code {
+    private List<Cliente> listaCliente = new();
+
+    protected override void OnInitialized()
+    {
+        listaCliente = clienteDAO.ListarTodos();
+    }
+}

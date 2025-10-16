@@ -1,0 +1,569 @@
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\LucasAguiar.csproj.AssemblyReference.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\LucasAguiar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\LucasAguiar.AssemblyInfoInputs.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\LucasAguiar.AssemblyInfo.cs
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\LucasAguiar.csproj.CoreCompileInputs.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\LucasAguiar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\LucasAguiar.dll
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\refint\LucasAguiar.dll
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\LucasAguiar.pdb
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\bin\Debug\net9.0\appsettings.json
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\bin\Debug\net9.0\LucasAguiar.staticwebassets.runtime.json
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\bin\Debug\net9.0\LucasAguiar.staticwebassets.endpoints.json
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\bin\Debug\net9.0\LucasAguiar.exe
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\bin\Debug\net9.0\LucasAguiar.deps.json
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\bin\Debug\net9.0\LucasAguiar.runtimeconfig.json
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\bin\Debug\net9.0\LucasAguiar.dll
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\bin\Debug\net9.0\LucasAguiar.pdb
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\scopedcss\bundle\LucasAguiar.styles.css
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\scopedcss\projectbundle\LucasAguiar.bundle.scp.css
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\x3yzkuex1w-khy4lop6wu.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\zipf1tu5ei-bqjiyaj88i.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\tj5swht7xa-c2jlpeoesf.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\m1foctjs8c-erw9l3u2r3.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\1egu1qrosg-aexeepp0ev.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\ei59yh9u4p-d7shbmvgxk.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\23whxzcyca-ausgxo2sd3.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\8ge4c1utpj-k8d9w2qqmf.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\kexfyum1ad-cosvhxvwiu.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\i09o6fqvgq-ub07r2b239.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\g009k1c2s8-fvhpjtyr6v.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\zwxdu946s3-b7pk76d08c.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\i3kbju611e-fsbi9cje9m.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\2o6swv9if8-rzd6atqjts.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\zrw303pgiw-ee0r1s7dh0.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\ocw7fg22hw-dxx9fxp4il.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\7zb8fyh4xy-jd9uben2k1.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\zt4otvl6d3-khv3u5hwcm.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\awk4ubhkqb-r4e9w2rdcm.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\929eqw4zox-lcd1t2u6c8.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\mkxs1epls1-c2oey78nd0.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\o7f8yr71op-tdbxkamptv.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\uajwtk5oh3-j5mq2jizvt.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\yriuau73s1-06098lyss8.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\gdit3rv3fa-nvvlpmu67g.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\m1lyaxm02h-s35ty4nyc5.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\ya2x5baeto-pj5nd1wqec.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\q435p6o4aj-46ein0sx1k.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\qm8fa1gdp9-v0zj4ognzu.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\kqepuy7etz-37tfw0ft22.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\formet4tb3-hrwsygsryq.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\j54us135a4-pk9g2wxc8p.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\hxayeul1xa-ft3s53vfgj.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\tvuvujp7tb-6cfz1n2cew.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\vxjp585bmu-6pdc2jztkx.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\wg334lysa7-493y06b0oq.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\79sl76517e-iovd86k7lj.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\mcevqkccjp-vr1egmr9el.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\l0q9gfhmjd-kbrnm935zg.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\ech4uck1de-jj8uyg4cgr.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\83zp7lmism-y7v9cxd14o.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\0m5b6y5z7x-notf2xhcfb.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\oa8bzc2s78-h1s4sie4z3.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\fsl4g9pn3j-63fj8s7r0e.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\hpfohzuwzv-0j3bgjxly4.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\vm06a3xzgy-50756vybi2.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\compressed\w3j7ihdmyd-50756vybi2.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\LucasAgu.C03E4DC5.Up2Date
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\LucasAguiar.genruntimeconfig.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\ref\LucasAguiar.dll
+C:\Users\art03\OneDrive\Documentos\A PDS\Projeto_LucasAguiar2.0\Projeto_LucasAguiar-main\LucasAguiar\obj\Debug\net9.0\LucasAguiar.sourcelink.json
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\appsettings.json
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.staticwebassets.runtime.json
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.staticwebassets.endpoints.json
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.exe
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.deps.json
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.runtimeconfig.json
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.dll
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.pdb
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.AssemblyInfoInputs.cache
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.AssemblyInfo.cs
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\scopedcss\bundle\LucasAguiar.styles.css
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\scopedcss\projectbundle\LucasAguiar.bundle.scp.css
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\x3yzkuex1w-khy4lop6wu.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\zipf1tu5ei-bqjiyaj88i.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\tj5swht7xa-c2jlpeoesf.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\m1foctjs8c-erw9l3u2r3.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\1egu1qrosg-aexeepp0ev.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\ei59yh9u4p-d7shbmvgxk.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\23whxzcyca-ausgxo2sd3.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\8ge4c1utpj-k8d9w2qqmf.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\kexfyum1ad-cosvhxvwiu.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\i09o6fqvgq-ub07r2b239.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\g009k1c2s8-fvhpjtyr6v.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\zwxdu946s3-b7pk76d08c.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\i3kbju611e-fsbi9cje9m.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\2o6swv9if8-rzd6atqjts.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\zrw303pgiw-ee0r1s7dh0.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\ocw7fg22hw-dxx9fxp4il.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\7zb8fyh4xy-jd9uben2k1.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\zt4otvl6d3-khv3u5hwcm.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\awk4ubhkqb-r4e9w2rdcm.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\929eqw4zox-lcd1t2u6c8.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\mkxs1epls1-c2oey78nd0.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\o7f8yr71op-tdbxkamptv.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\uajwtk5oh3-j5mq2jizvt.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\yriuau73s1-06098lyss8.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\gdit3rv3fa-nvvlpmu67g.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\m1lyaxm02h-s35ty4nyc5.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\ya2x5baeto-pj5nd1wqec.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\q435p6o4aj-46ein0sx1k.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\qm8fa1gdp9-v0zj4ognzu.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\kqepuy7etz-37tfw0ft22.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\formet4tb3-hrwsygsryq.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\j54us135a4-pk9g2wxc8p.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\hxayeul1xa-ft3s53vfgj.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\tvuvujp7tb-6cfz1n2cew.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\vxjp585bmu-6pdc2jztkx.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\wg334lysa7-493y06b0oq.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\79sl76517e-iovd86k7lj.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\mcevqkccjp-vr1egmr9el.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\l0q9gfhmjd-kbrnm935zg.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\ech4uck1de-jj8uyg4cgr.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\83zp7lmism-y7v9cxd14o.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\0m5b6y5z7x-notf2xhcfb.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\oa8bzc2s78-h1s4sie4z3.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\fsl4g9pn3j-63fj8s7r0e.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\hpfohzuwzv-0j3bgjxly4.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\vm06a3xzgy-50756vybi2.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\w3j7ihdmyd-50756vybi2.gz
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAgu.C03E4DC5.Up2Date
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.dll
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\refint\LucasAguiar.dll
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.pdb
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.genruntimeconfig.cache
+C:\Users\lucas\Downloads\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\ref\LucasAguiar.dll
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\appsettings.json
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.staticwebassets.runtime.json
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.staticwebassets.endpoints.json
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.exe
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.deps.json
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.runtimeconfig.json
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.dll
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.pdb
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.csproj.AssemblyReference.cache
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.AssemblyInfoInputs.cache
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.AssemblyInfo.cs
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.csproj.CoreCompileInputs.cache
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\scopedcss\bundle\LucasAguiar.styles.css
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\scopedcss\projectbundle\LucasAguiar.bundle.scp.css
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\x3yzkuex1w-khy4lop6wu.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\zipf1tu5ei-bqjiyaj88i.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\tj5swht7xa-c2jlpeoesf.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\m1foctjs8c-erw9l3u2r3.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\1egu1qrosg-aexeepp0ev.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\ei59yh9u4p-d7shbmvgxk.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\23whxzcyca-ausgxo2sd3.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\8ge4c1utpj-k8d9w2qqmf.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\kexfyum1ad-cosvhxvwiu.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\i09o6fqvgq-ub07r2b239.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\g009k1c2s8-fvhpjtyr6v.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\zwxdu946s3-b7pk76d08c.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\i3kbju611e-fsbi9cje9m.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\2o6swv9if8-rzd6atqjts.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\zrw303pgiw-ee0r1s7dh0.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\ocw7fg22hw-dxx9fxp4il.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\7zb8fyh4xy-jd9uben2k1.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\zt4otvl6d3-khv3u5hwcm.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\awk4ubhkqb-r4e9w2rdcm.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\929eqw4zox-lcd1t2u6c8.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\mkxs1epls1-c2oey78nd0.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\o7f8yr71op-tdbxkamptv.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\uajwtk5oh3-j5mq2jizvt.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\yriuau73s1-06098lyss8.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\gdit3rv3fa-nvvlpmu67g.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\m1lyaxm02h-s35ty4nyc5.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\ya2x5baeto-pj5nd1wqec.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\q435p6o4aj-46ein0sx1k.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\qm8fa1gdp9-v0zj4ognzu.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\kqepuy7etz-37tfw0ft22.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\formet4tb3-hrwsygsryq.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\j54us135a4-pk9g2wxc8p.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\hxayeul1xa-ft3s53vfgj.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\tvuvujp7tb-6cfz1n2cew.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\vxjp585bmu-6pdc2jztkx.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\wg334lysa7-493y06b0oq.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\79sl76517e-iovd86k7lj.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\mcevqkccjp-vr1egmr9el.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\l0q9gfhmjd-kbrnm935zg.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\ech4uck1de-jj8uyg4cgr.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\83zp7lmism-y7v9cxd14o.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\0m5b6y5z7x-notf2xhcfb.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\oa8bzc2s78-h1s4sie4z3.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\fsl4g9pn3j-63fj8s7r0e.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\hpfohzuwzv-0j3bgjxly4.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\vm06a3xzgy-50756vybi2.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\w3j7ihdmyd-50756vybi2.gz
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAgu.C03E4DC5.Up2Date
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.dll
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\refint\LucasAguiar.dll
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.pdb
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.genruntimeconfig.cache
+C:\Users\2023102020008\Downloads\LucasAguiar2.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\ref\LucasAguiar.dll
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.csproj.AssemblyReference.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.AssemblyInfoInputs.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.AssemblyInfo.cs
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.csproj.CoreCompileInputs.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.dll
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\refint\LucasAguiar.dll
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.pdb
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\appsettings.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.staticwebassets.runtime.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.staticwebassets.endpoints.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.exe
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.deps.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.runtimeconfig.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.dll
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.pdb
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\scopedcss\bundle\LucasAguiar.styles.css
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\scopedcss\projectbundle\LucasAguiar.bundle.scp.css
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\x3yzkuex1w-khy4lop6wu.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\zipf1tu5ei-bqjiyaj88i.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\tj5swht7xa-c2jlpeoesf.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\m1foctjs8c-erw9l3u2r3.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\1egu1qrosg-aexeepp0ev.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\ei59yh9u4p-d7shbmvgxk.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\23whxzcyca-ausgxo2sd3.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\8ge4c1utpj-k8d9w2qqmf.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\kexfyum1ad-cosvhxvwiu.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\i09o6fqvgq-ub07r2b239.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\g009k1c2s8-fvhpjtyr6v.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\zwxdu946s3-b7pk76d08c.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\i3kbju611e-fsbi9cje9m.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\2o6swv9if8-rzd6atqjts.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\zrw303pgiw-ee0r1s7dh0.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\ocw7fg22hw-dxx9fxp4il.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\7zb8fyh4xy-jd9uben2k1.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\zt4otvl6d3-khv3u5hwcm.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\awk4ubhkqb-r4e9w2rdcm.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\929eqw4zox-lcd1t2u6c8.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\mkxs1epls1-c2oey78nd0.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\o7f8yr71op-tdbxkamptv.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\uajwtk5oh3-j5mq2jizvt.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\yriuau73s1-06098lyss8.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\gdit3rv3fa-nvvlpmu67g.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\m1lyaxm02h-s35ty4nyc5.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\ya2x5baeto-pj5nd1wqec.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\q435p6o4aj-46ein0sx1k.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\qm8fa1gdp9-v0zj4ognzu.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\kqepuy7etz-37tfw0ft22.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\formet4tb3-hrwsygsryq.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\j54us135a4-pk9g2wxc8p.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\hxayeul1xa-ft3s53vfgj.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\tvuvujp7tb-6cfz1n2cew.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\vxjp585bmu-6pdc2jztkx.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\wg334lysa7-493y06b0oq.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\79sl76517e-iovd86k7lj.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\mcevqkccjp-vr1egmr9el.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\l0q9gfhmjd-kbrnm935zg.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\ech4uck1de-jj8uyg4cgr.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\83zp7lmism-y7v9cxd14o.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\0m5b6y5z7x-notf2xhcfb.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\oa8bzc2s78-h1s4sie4z3.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\fsl4g9pn3j-63fj8s7r0e.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\hpfohzuwzv-0j3bgjxly4.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\vm06a3xzgy-50756vybi2.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\w3j7ihdmyd-50756vybi2.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAgu.C03E4DC5.Up2Date
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.genruntimeconfig.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\ref\LucasAguiar.dll
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.csproj.AssemblyReference.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.AssemblyInfoInputs.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.AssemblyInfo.cs
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.csproj.CoreCompileInputs.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.dll
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\refint\LucasAguiar.dll
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.pdb
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\appsettings.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.staticwebassets.runtime.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.staticwebassets.endpoints.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.exe
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.deps.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.runtimeconfig.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.dll
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\LucasAguiar.pdb
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\scopedcss\bundle\LucasAguiar.styles.css
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\scopedcss\projectbundle\LucasAguiar.bundle.scp.css
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\x3yzkuex1w-khy4lop6wu.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\zipf1tu5ei-bqjiyaj88i.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\tj5swht7xa-c2jlpeoesf.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\m1foctjs8c-erw9l3u2r3.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\1egu1qrosg-aexeepp0ev.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\ei59yh9u4p-d7shbmvgxk.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\23whxzcyca-ausgxo2sd3.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\8ge4c1utpj-k8d9w2qqmf.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\kexfyum1ad-cosvhxvwiu.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\i09o6fqvgq-ub07r2b239.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\g009k1c2s8-fvhpjtyr6v.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\zwxdu946s3-b7pk76d08c.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\i3kbju611e-fsbi9cje9m.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\2o6swv9if8-rzd6atqjts.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\zrw303pgiw-ee0r1s7dh0.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\ocw7fg22hw-dxx9fxp4il.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\7zb8fyh4xy-jd9uben2k1.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\zt4otvl6d3-khv3u5hwcm.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\awk4ubhkqb-r4e9w2rdcm.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\929eqw4zox-lcd1t2u6c8.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\mkxs1epls1-c2oey78nd0.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\o7f8yr71op-tdbxkamptv.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\uajwtk5oh3-j5mq2jizvt.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\yriuau73s1-06098lyss8.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\gdit3rv3fa-nvvlpmu67g.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\m1lyaxm02h-s35ty4nyc5.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\ya2x5baeto-pj5nd1wqec.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\q435p6o4aj-46ein0sx1k.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\qm8fa1gdp9-v0zj4ognzu.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\kqepuy7etz-37tfw0ft22.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\formet4tb3-hrwsygsryq.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\j54us135a4-pk9g2wxc8p.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\hxayeul1xa-ft3s53vfgj.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\tvuvujp7tb-6cfz1n2cew.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\vxjp585bmu-6pdc2jztkx.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\wg334lysa7-493y06b0oq.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\79sl76517e-iovd86k7lj.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\mcevqkccjp-vr1egmr9el.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\l0q9gfhmjd-kbrnm935zg.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\ech4uck1de-jj8uyg4cgr.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\83zp7lmism-y7v9cxd14o.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\0m5b6y5z7x-notf2xhcfb.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\oa8bzc2s78-h1s4sie4z3.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\fsl4g9pn3j-63fj8s7r0e.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\hpfohzuwzv-0j3bgjxly4.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\vm06a3xzgy-50756vybi2.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\compressed\w3j7ihdmyd-50756vybi2.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAgu.C03E4DC5.Up2Date
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\LucasAguiar.genruntimeconfig.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar5.0\LucasAguiar5.0\LucasAguiar3.0\LucasAguiar2.0\LucasAguiar\obj\Debug\net9.0\ref\LucasAguiar.dll
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\bin\Debug\net9.0\appsettings.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\bin\Debug\net9.0\LucasAguiar.staticwebassets.endpoints.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\bin\Debug\net9.0\LucasAguiar.staticwebassets.runtime.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\bin\Debug\net9.0\LucasAguiar.exe
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\bin\Debug\net9.0\LucasAguiar.deps.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\bin\Debug\net9.0\LucasAguiar.runtimeconfig.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\bin\Debug\net9.0\LucasAguiar.dll
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\bin\Debug\net9.0\LucasAguiar.pdb
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\LucasAguiar.csproj.AssemblyReference.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\LucasAguiar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\LucasAguiar.AssemblyInfoInputs.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\LucasAguiar.AssemblyInfo.cs
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\LucasAguiar.csproj.CoreCompileInputs.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\LucasAguiar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\scopedcss\bundle\LucasAguiar.styles.css
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\scopedcss\projectbundle\LucasAguiar.bundle.scp.css
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\x3yzkuex1w-khy4lop6wu.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\zipf1tu5ei-bqjiyaj88i.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\tj5swht7xa-c2jlpeoesf.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\m1foctjs8c-erw9l3u2r3.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\1egu1qrosg-aexeepp0ev.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\ei59yh9u4p-d7shbmvgxk.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\23whxzcyca-ausgxo2sd3.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\8ge4c1utpj-k8d9w2qqmf.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\kexfyum1ad-cosvhxvwiu.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\i09o6fqvgq-ub07r2b239.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\g009k1c2s8-fvhpjtyr6v.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\zwxdu946s3-b7pk76d08c.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\i3kbju611e-fsbi9cje9m.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\2o6swv9if8-rzd6atqjts.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\zrw303pgiw-ee0r1s7dh0.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\ocw7fg22hw-dxx9fxp4il.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\7zb8fyh4xy-jd9uben2k1.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\zt4otvl6d3-khv3u5hwcm.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\awk4ubhkqb-r4e9w2rdcm.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\929eqw4zox-lcd1t2u6c8.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\mkxs1epls1-c2oey78nd0.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\o7f8yr71op-tdbxkamptv.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\uajwtk5oh3-j5mq2jizvt.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\yriuau73s1-06098lyss8.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\gdit3rv3fa-nvvlpmu67g.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\m1lyaxm02h-s35ty4nyc5.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\ya2x5baeto-pj5nd1wqec.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\q435p6o4aj-46ein0sx1k.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\qm8fa1gdp9-v0zj4ognzu.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\kqepuy7etz-37tfw0ft22.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\formet4tb3-hrwsygsryq.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\j54us135a4-pk9g2wxc8p.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\hxayeul1xa-ft3s53vfgj.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\tvuvujp7tb-6cfz1n2cew.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\vxjp585bmu-6pdc2jztkx.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\wg334lysa7-493y06b0oq.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\79sl76517e-iovd86k7lj.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\mcevqkccjp-vr1egmr9el.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\l0q9gfhmjd-kbrnm935zg.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\ech4uck1de-jj8uyg4cgr.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\83zp7lmism-y7v9cxd14o.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\0m5b6y5z7x-notf2xhcfb.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\oa8bzc2s78-h1s4sie4z3.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\fsl4g9pn3j-63fj8s7r0e.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\hpfohzuwzv-0j3bgjxly4.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\vm06a3xzgy-50756vybi2.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\compressed\w3j7ihdmyd-50756vybi2.gz
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\LucasAgu.C03E4DC5.Up2Date
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\LucasAguiar.dll
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\refint\LucasAguiar.dll
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\LucasAguiar.pdb
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\LucasAguiar.genruntimeconfig.cache
+C:\Users\art03\OneDrive\Documentos\A PDS\LucasAguiar6.0\obj\Debug\net9.0\ref\LucasAguiar.dll
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\LucasAguiar.csproj.AssemblyReference.cache
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\LucasAguiar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\LucasAguiar.AssemblyInfoInputs.cache
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\LucasAguiar.AssemblyInfo.cs
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\LucasAguiar.csproj.CoreCompileInputs.cache
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\LucasAguiar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carllos\Desktop\LucasAguiar6.0\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Carllos\Desktop\LucasAguiar6.0\bin\Debug\net9.0\appsettings.json
+C:\Users\Carllos\Desktop\LucasAguiar6.0\bin\Debug\net9.0\LucasAguiar.staticwebassets.runtime.json
+C:\Users\Carllos\Desktop\LucasAguiar6.0\bin\Debug\net9.0\LucasAguiar.staticwebassets.endpoints.json
+C:\Users\Carllos\Desktop\LucasAguiar6.0\bin\Debug\net9.0\LucasAguiar.exe
+C:\Users\Carllos\Desktop\LucasAguiar6.0\bin\Debug\net9.0\LucasAguiar.deps.json
+C:\Users\Carllos\Desktop\LucasAguiar6.0\bin\Debug\net9.0\LucasAguiar.runtimeconfig.json
+C:\Users\Carllos\Desktop\LucasAguiar6.0\bin\Debug\net9.0\LucasAguiar.dll
+C:\Users\Carllos\Desktop\LucasAguiar6.0\bin\Debug\net9.0\LucasAguiar.pdb
+C:\Users\Carllos\Desktop\LucasAguiar6.0\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\scopedcss\bundle\LucasAguiar.styles.css
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\scopedcss\projectbundle\LucasAguiar.bundle.scp.css
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\x3yzkuex1w-khy4lop6wu.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\zipf1tu5ei-bqjiyaj88i.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\tj5swht7xa-c2jlpeoesf.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\m1foctjs8c-erw9l3u2r3.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\1egu1qrosg-aexeepp0ev.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\ei59yh9u4p-d7shbmvgxk.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\23whxzcyca-ausgxo2sd3.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\8ge4c1utpj-k8d9w2qqmf.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\kexfyum1ad-cosvhxvwiu.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\i09o6fqvgq-ub07r2b239.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\g009k1c2s8-fvhpjtyr6v.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\zwxdu946s3-b7pk76d08c.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\i3kbju611e-fsbi9cje9m.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\2o6swv9if8-rzd6atqjts.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\zrw303pgiw-ee0r1s7dh0.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\ocw7fg22hw-dxx9fxp4il.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\7zb8fyh4xy-jd9uben2k1.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\zt4otvl6d3-khv3u5hwcm.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\awk4ubhkqb-r4e9w2rdcm.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\929eqw4zox-lcd1t2u6c8.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\mkxs1epls1-c2oey78nd0.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\o7f8yr71op-tdbxkamptv.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\uajwtk5oh3-j5mq2jizvt.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\yriuau73s1-06098lyss8.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\gdit3rv3fa-nvvlpmu67g.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\m1lyaxm02h-s35ty4nyc5.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\ya2x5baeto-pj5nd1wqec.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\q435p6o4aj-46ein0sx1k.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\qm8fa1gdp9-v0zj4ognzu.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\kqepuy7etz-37tfw0ft22.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\formet4tb3-hrwsygsryq.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\j54us135a4-pk9g2wxc8p.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\hxayeul1xa-ft3s53vfgj.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\tvuvujp7tb-6cfz1n2cew.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\vxjp585bmu-6pdc2jztkx.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\wg334lysa7-493y06b0oq.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\79sl76517e-iovd86k7lj.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\mcevqkccjp-vr1egmr9el.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\l0q9gfhmjd-kbrnm935zg.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\ech4uck1de-jj8uyg4cgr.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\83zp7lmism-y7v9cxd14o.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\0m5b6y5z7x-notf2xhcfb.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\oa8bzc2s78-h1s4sie4z3.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\fsl4g9pn3j-63fj8s7r0e.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\hpfohzuwzv-0j3bgjxly4.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\LucasAgu.C03E4DC5.Up2Date
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\LucasAguiar.dll
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\refint\LucasAguiar.dll
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\LucasAguiar.pdb
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\LucasAguiar.genruntimeconfig.cache
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\ref\LucasAguiar.dll
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\vm06a3xzgy-zz8bn6ef1n.gz
+C:\Users\Carllos\Desktop\LucasAguiar6.0\obj\Debug\net9.0\compressed\w3j7ihdmyd-zz8bn6ef1n.gz

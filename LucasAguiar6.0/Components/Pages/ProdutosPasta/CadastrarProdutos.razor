@@ -1,0 +1,146 @@
+@page "/produto/novo"
+@rendermode InteractiveServer
+
+@using LucasAguiar.Models
+@using LucasAguiar.Configs
+@inject ProdutoDAO produtoDAO
+@inject FornecedorDAO fornecedorDAO
+@inject NavigationManager Navigation
+
+<PageTitle>Produto - Novo</PageTitle>
+
+<h1 class="text-xl font-semibold text-gray-800 dark:text-gray-100 mb-6">Novo Produto</h1>
+
+@if (erro != null)
+{
+    <div class="alert alert-danger">@erro</div>
+}
+
+<EditForm Model="_novoProduto" OnValidSubmit="Salvar">
+    <div class="row">
+        <div class="col-md-6">
+            <InputText class="form-control mb-2" @bind-Value="_novoProduto.NomeProduto" placeholder="Nome do Produto" />
+            <InputNumber class="form-control mb-2" @bind-Value="_novoProduto.Quantidade" placeholder="Quantidade" />
+            <InputNumber class="form-control mb-2" @bind-Value="_novoProduto.Valor" placeholder="Valor" />
+            <InputTextArea class="form-control mb-2" @bind-Value="_novoProduto.Descricao" placeholder="Descrição" rows="3" />
+            <InputText class="form-control mb-2" @bind-Value="_novoProduto.Marca" placeholder="Marca" />
+
+            <label>Fornecedor</label>
+            <select class="form-control mb-2" @bind="_novoProduto.IdFornecedor">
+                <option value="">Selecione</option>
+                @foreach (var f in fornecedores)
+                {
+                    <option value="@f.IdFornecedor">@f.NomeFornecedor</option>
+                }
+            </select>
+
+            <button type="submit" class="btn btn-primary mt-3">Salvar</button>
+        </div>
+    </div>
+</EditForm>
+
+@code {
+    private string? erro = null;
+    private Produto _novoProduto = new();
+    private List<Fornecedor> fornecedores = new();
+
+    protected override void OnInitialized()
+    {
+        fornecedores = fornecedorDAO.ListarTodos();
+    }
+
+    private void Salvar()
+    {
+        try
+        {
+            if (string.IsNullOrWhiteSpace(_novoProduto.NomeProduto))
+                throw new Exception("O nome do produto é obrigatório.");
+
+            produtoDAO.Inserir(_novoProduto);
+            Navigation.NavigateTo("/produto");
+        }
+        catch (Exception ex)
+        {
+            erro = ex.Message;
+        }
+    }
+}
+<style>/* Tema Laranja para Cadastro de Funcionário */
+body {
+    background-color: #fffaf3;
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+}
+
+h1 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #e67e22;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #e67e22;
+    padding-bottom: 10px;
+}
+
+label {
+    font-weight: 600;
+    color: #d35400;
+    margin-bottom: 5px;
+    display: block;
+}
+
+input,
+select,
+textarea {
+    border: 1px solid #e67e22;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 1rem;
+    width: 100%;
+    transition: border-color 0.3s ease;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+    border-color: #d35400;
+    outline: none;
+    box-shadow: 0 0 5px rgba(230, 126, 34, 0.5);
+}
+
+.btn-primary {
+    background-color: #e67e22;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #d35400;
+}
+
+.alert-danger {
+    background-color: #fceae5;
+    color: #c0392b;
+    border: 1px solid #e74c3c;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.form-control {
+    margin-bottom: 15px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.col-md-6 {
+    flex: 1;
+    min-width: 300px;
+}</style>

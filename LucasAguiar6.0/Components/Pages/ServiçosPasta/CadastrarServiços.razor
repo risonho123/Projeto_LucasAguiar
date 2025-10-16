@@ -1,0 +1,147 @@
+@page "/servico/novo"
+@rendermode InteractiveServer
+
+@using LucasAguiar.Configs
+@using LucasAguiar.Models
+@inject ServicoDAO servicoDAO
+@inject NavigationManager Navigation
+
+<PageTitle>Serviço - Novo</PageTitle>
+
+<h1 class="text-xl font-semibold text-gray-800 dark:text-gray-100 mb-6">Novo Serviço</h1>
+
+@if (erro != null)
+{
+    <div class="alert alert-danger">@erro</div>
+}
+
+<div class="row">
+    <div class="col">
+        <EditForm Model="_novoServico" OnValidSubmit="Salvar">
+
+            <div class="form-group mb-4">
+                <label>Nome</label>
+                <input @bind-value="_novoServico.NomeServico" type="text" class="form-control" placeholder="Informe o nome do serviço" />
+            </div>
+
+            <div class="form-group mb-4">
+                <label>Preço</label>
+                <input @bind-value="_novoServico.PrecoServico" type="number" step="0.01" class="form-control" placeholder="Informe o preço do serviço" />
+            </div>
+
+            <div class="form-group mb-4">
+                <label>Duração (minutos)</label>
+                <input @bind-value="_novoServico.DuracaoServico" type="number" class="form-control" placeholder="Informe a duração do serviço (em minutos)" />
+            </div>
+
+            <div class="form-group mb-4">
+                <label>Comissão</label>
+                <input @bind-value="_novoServico.ComissaoServico" type="number" step="0.01" class="form-control" placeholder="Informe a comissão paga ao funcionário" />
+            </div>
+
+            <button type="submit" class="btn btn-primary">Salvar</button>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    private string? erro = null;
+
+    private Servico _novoServico = new();
+
+    private void Salvar()
+    {
+        try
+        {
+            if (string.IsNullOrWhiteSpace(_novoServico.NomeServico))
+                throw new Exception("O campo Nome é obrigatório.");
+
+            servicoDAO.Inserir(_novoServico); 
+
+            Navigation.NavigateTo("/servico"); 
+        }
+        catch (Exception ex)
+        {
+            erro = ex.Message;
+        }
+    }
+}
+<style>/* Tema Laranja para Cadastro de Funcionário */
+body {
+    background-color: #fffaf3;
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+}
+
+h1 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #e67e22;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #e67e22;
+    padding-bottom: 10px;
+}
+
+label {
+    font-weight: 600;
+    color: #d35400;
+    margin-bottom: 5px;
+    display: block;
+}
+
+input,
+select,
+textarea {
+    border: 1px solid #e67e22;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 1rem;
+    width: 100%;
+    transition: border-color 0.3s ease;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+    border-color: #d35400;
+    outline: none;
+    box-shadow: 0 0 5px rgba(230, 126, 34, 0.5);
+}
+
+.btn-primary {
+    background-color: #e67e22;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #d35400;
+}
+
+.alert-danger {
+    background-color: #fceae5;
+    color: #c0392b;
+    border: 1px solid #e74c3c;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.form-control {
+    margin-bottom: 15px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.col-md-6 {
+    flex: 1;
+    min-width: 300px;
+}</style>
