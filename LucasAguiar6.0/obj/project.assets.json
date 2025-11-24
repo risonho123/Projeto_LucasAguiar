@@ -203,11 +203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carllos\\Desktop\\LucasAguiar6.0\\LucasAguiar.csproj",
+      "projectUniqueName": "C:\\Users\\Carllos\\Documents\\GitHub\\Projeto_LucasAguiar\\lucasAguiar6.0\\LucasAguiar.csproj",
       "projectName": "LucasAguiar",
-      "projectPath": "C:\\Users\\Carllos\\Desktop\\LucasAguiar6.0\\LucasAguiar.csproj",
+      "projectPath": "C:\\Users\\Carllos\\Documents\\GitHub\\Projeto_LucasAguiar\\lucasAguiar6.0\\LucasAguiar.csproj",
       "packagesPath": "C:\\Users\\Carllos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carllos\\Desktop\\LucasAguiar6.0\\obj\\",
+      "outputPath": "C:\\Users\\Carllos\\Documents\\GitHub\\Projeto_LucasAguiar\\lucasAguiar6.0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Carllos\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -267,5 +267,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ocorreu um erro ao obter os dados de vulnerabilidade do pacote: Não é possível carregar o índice de serviço para a origem https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

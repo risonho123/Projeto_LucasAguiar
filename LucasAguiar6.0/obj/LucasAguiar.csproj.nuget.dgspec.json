@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carllos\\Desktop\\LucasAguiar6.0\\LucasAguiar.csproj": {}
+    "C:\\Users\\Carllos\\Documents\\GitHub\\Projeto_LucasAguiar\\lucasAguiar6.0\\LucasAguiar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carllos\\Desktop\\LucasAguiar6.0\\LucasAguiar.csproj": {
+    "C:\\Users\\Carllos\\Documents\\GitHub\\Projeto_LucasAguiar\\lucasAguiar6.0\\LucasAguiar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carllos\\Desktop\\LucasAguiar6.0\\LucasAguiar.csproj",
+        "projectUniqueName": "C:\\Users\\Carllos\\Documents\\GitHub\\Projeto_LucasAguiar\\lucasAguiar6.0\\LucasAguiar.csproj",
         "projectName": "LucasAguiar",
-        "projectPath": "C:\\Users\\Carllos\\Desktop\\LucasAguiar6.0\\LucasAguiar.csproj",
+        "projectPath": "C:\\Users\\Carllos\\Documents\\GitHub\\Projeto_LucasAguiar\\lucasAguiar6.0\\LucasAguiar.csproj",
         "packagesPath": "C:\\Users\\Carllos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carllos\\Desktop\\LucasAguiar6.0\\obj\\",
+        "outputPath": "C:\\Users\\Carllos\\Documents\\GitHub\\Projeto_LucasAguiar\\lucasAguiar6.0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Carllos\\AppData\\Roaming\\NuGet\\NuGet.Config"

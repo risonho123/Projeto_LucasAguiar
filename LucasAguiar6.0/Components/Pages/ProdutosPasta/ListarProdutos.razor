@@ -19,29 +19,67 @@
             <th>Descrição</th>
             <th>Marca</th>
             <th>Fornecedor</th>
+            <th></th>
         </tr>
     </thead>
     <tbody>
-        @{
+       @{
             int contador = 1;
-        }
 
-        @foreach (var produto in listaProdutos)
-        {
-            <tr>
-                <td>@contador</td>
-                <td>@produto.NomeProduto</td>
-                <td>@produto.Quantidade</td>
-                <td>R$ @produto.Valor</td>
-                <td>@produto.Descricao</td>
-                <td>@produto.Marca</td>
-                <td>@produto.NomeFornecedor</td>
-            </tr>
-            contador++;
+            @foreach (var produto in listaProdutos)
+            {
+                <tr>
+                    <td>@produto.IdProduto</td>
+                    <td>@produto.NomeProduto</td>
+                    <td>@produto.Quantidade</td>
+                    <td>R$ @produto.Valor</td>
+                    <td> @produto.Descricao</td>
+                    <td> @produto.Marca</td>
+                    <td> @produto.NomeFornecedor</td>
+
+                    <td>
+                        <a href="/produtos/@produto.IdProduto/editar" class="bnt-editar mr-2">
+                            <i class="fas fa-edit"></i> Atualizar
+                        </a>
+                        <a href="/produtos/@produto.IdProduto/excluir" class="bnt-excluir btn-danger">
+                            <i class="fas fa-trash"></i> Excluir
+                        </a>
+                    </td>
+                </tr>
+
+                contador++;
+            }
         }
     </tbody>
 </table>
 <style>/* Tema Laranja para Listagem de Funcionários */
+.bnt-editar{
+         background-color: #fa9910;
+    color: white;
+    padding: 8px 14px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    transition: 0.3s ease-in-out;
+    border: none;
+}
+.bnt-excluir{
+         background-color: #ee5813;
+    color: white;
+    padding: 8px 14px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    transition: 0.3s ease-in-out;
+    border: none;
+}
+
 body {
     background-color: #fffaf3;
     font-family: 'Segoe UI', sans-serif;

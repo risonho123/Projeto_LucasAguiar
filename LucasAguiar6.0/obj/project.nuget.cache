@@ -1,12 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "zZlB54ubTAc=",
+  "dgSpecHash": "UbWfssgTDXE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carllos\\Desktop\\LucasAguiar6.0\\LucasAguiar.csproj",
+  "projectFilePath": "C:\\Users\\Carllos\\Documents\\GitHub\\Projeto_LucasAguiar\\lucasAguiar6.0\\LucasAguiar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carllos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
     "C:\\Users\\Carllos\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
     "C:\\Users\\Carllos\\.nuget\\packages\\mysqlconnector\\2.4.0\\mysqlconnector.2.4.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Ocorreu um erro ao obter os dados de vulnerabilidade do pacote: Não é possível carregar o índice de serviço para a origem https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\Carllos\\Documents\\GitHub\\Projeto_LucasAguiar\\lucasAguiar6.0\\LucasAguiar.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Carllos\\Documents\\GitHub\\Projeto_LucasAguiar\\lucasAguiar6.0\\LucasAguiar.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
